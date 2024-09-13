@@ -2,12 +2,12 @@
     "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
     "basics": {
       "name": "Rubén Lucena Romero",
-      "label": "Software Engineer",
+      "label": "Backend Developer con más de 10 años de experiencia.",
       "image": "https://avatars.githubusercontent.com/u/5638686",
       "email": "ruben.lucena@gmail.com",
       "phone": "",
       "url": "",
-      "summary": "Programador .NET, C#, VB.NET, ASP.NET, PHP, AJAX, JavaScript, JQuery, Visual Studio",
+      "summary": "Programador backend con más de 10 años de experiencia en el sector, siempre trabajando en entornos .NET Framework y .NET Core, actualmente agregando conocimientos en frontend con React y Astro. Vivo en Cubelles, Barcelona.",
       "location": {
         "countryCode": "ES",
         "address": "",
@@ -29,7 +29,7 @@
         "startDate": "2023-08-31",
         "endDate": "",
         "highlights": [],
-        "summary": "",
+        "summary": "Actualmente como ingeniero de software participo en el desarrolo de API's, algún WebService y clientes de Windows y Linux para el uso y firma de certificados digitales.",
         "url": "https://www.linkedin.com/company/redtrust/",
         "location": "Barcelona y alrededores"
       },
@@ -38,8 +38,8 @@
         "position": "Desarrollador de .NET",
         "startDate": "2022-08-31",
         "endDate": "2023-08-31",
-        "highlights": [],
-        "summary": "",
+        "highlights": [".net Core", "EntityFramework", "React", "TDD", "PostgreSQL", "GitHub"],
+        "summary": "Como programador .net Core desarrollando la parte de backend y APIS para el funcionamiento del site encargado de poner en contacto a prestatarios y prestadores para prestamos de capitales en inversiones inmobiliarias. Tambien participando en la migración a React de algunos de los componentes de las webs para poder usarlos en varias partes de las mismas. Tecnologías: Net core, React, JS, EntityFramework, TDD, PostgreSQL, GitHub",
         "url": "https://www.linkedin.com/company/finloop-com/",
         "location": "Barcelona, Cataluña, España"
       },
@@ -49,7 +49,7 @@
         "startDate": "2021-07-31",
         "endDate": "2022-08-31",
         "highlights": [],
-        "summary": "",
+        "summary": "Cómo programador en .net Core desarrollando una API para la recepción y escritura de mensajes que se usará en las diferentes aplicaciones de la compañía. Tecnologías: .net core, dynamodb, MySQL, AWS para despliegues, GitHub",
         "url": "https://www.linkedin.com/company/sage-software/"
       },
       {
@@ -58,6 +58,7 @@
         "startDate": "2018-04-30",
         "endDate": "2021-07-31",
         "highlights": [],
+        "summary": "Responsable de proyecto del área de empresas de Computrabajo, encargado del análisis, gestión de tareas, gestión de las pasarelas de pago para compras por la web, análisis de ventas y posibles mejoras para incrementar ventas. La plataforma está completamente en MVC, con Elastic Search, API REST, procesos de consola, usamos GIT como control de versiones y un “SCRUM” adaptado a nuestras necesidades. Y posteriormente ejerciendo como jefe de equipo y desarrollador, desde hace 6 meses, portando la actual aplicación de computrabajo realizada en java y kotlin a una versión en react native. Coordino un equipo de 3 personas (4 contándome a mi), contacto tanto con el equipo de diseño, producto, CTO y respondiendo a comentarios de usuarios en la play store.",
         "url": "https://www.linkedin.com/company/computrabajo/"
       },
       {
@@ -66,7 +67,7 @@
         "startDate": "2014-02-28",
         "endDate": "2021-07-31",
         "highlights": [],
-        "summary": "",
+        "summary": "Desde julio de 2014 realizando tareas de programación en ASP.NET C#, MySQL Server, HTML5, CSS4, jQuery, ElasticSearch y TFS en el desarrollo de un portal de empleo.",
         "url": "https://www.linkedin.com/company/red-arbor/"
       },
       {
@@ -75,7 +76,7 @@
         "startDate": "2012-07-31",
         "endDate": "2014-01-31",
         "highlights": [],
-        "summary": "",
+        "summary": "realizando el mismo trabajo que en Arelance pero contratado por Accenture, empresa a la que pertenece Coritel. Creación de WebServices para comunicación con la aplicación principal y aplicación de tablets.",
         "url": "https://www.linkedin.com/company/accenture/"
       },
       {
@@ -84,6 +85,7 @@
         "startDate": "2012-02-28",
         "endDate": "2012-07-31",
         "highlights": [],
+        "summary": "Desde Febrero 2012 hasta Julio de 2012, trabajando en Coritel como soporte, ayudando en el mantenimiento y puesta en marcha de máquinas virtuales con VMWare.",
         "url": "",
         "location": "Coritel - Sant cugat"
       },
@@ -93,8 +95,8 @@
         "startDate": "2010-06-30",
         "endDate": "2011-10-31",
         "highlights": [],
-        "summary": "",
-        "url": "https://www.linkedin.com/company/tdsynnexnorthamerica/"
+        "summary": "Analísta programador .NET, creación, gestión y mantenimiento de aplicaciones web y escritorio tanto en VB.NET como C# y ASP.NET, mantenimiento de bases de datos en SQL Server. CSS, JQuery, HTML, Javascript. Visual studio 2005 y 2010, framework 2.0 y 3.5, SQL server 2002 y 2005.",
+        "url": ""
       },
       {
         "name": "icode consultors",
@@ -102,16 +104,7 @@
         "startDate": "2006-05-31",
         "endDate": "2010-04-30",
         "highlights": [],
-        "summary": "",
-        "url": ""
-      },
-      {
-        "name": "icode consultors",
-        "position": "Técnico de campo",
-        "startDate": "2005-05-31",
-        "endDate": "2005-12-31",
-        "highlights": [],
-        "summary": "",
+        "summary": "Desde Mayo de 2006 hasta Abril de 2010, programador junior, encargado de la creación de páginas web y aplicaciones en ASP.NET y PHP, tanto páginas web completas como gestiones internas de clientes, contactos... Utilizando visual studio 2005,2008 y 2010 con framework 3.5 y SQL Server 2005, 2008 y 2010, WebForms y WebServices.",
         "url": ""
       }
     ],
@@ -119,8 +112,8 @@
     "education": [
       {
         "institution": "Jesus María Claudina Thevenet",
-        "area": "ESO",
-        "studyType": "ESO",
+        "area": "Educación secundaria obligatorio",
+        "studyType": "Educación secundaria obligatorio",
         "startDate": "",
         "endDate": "",
         "score": "",
@@ -128,7 +121,7 @@
       },
       {
         "institution": "Gesem",
-        "area": "Informática",
+        "area": "Técnico informática empresarial",
         "studyType": "Técnico informática empresarial",
         "startDate": "",
         "endDate": "",
@@ -156,42 +149,33 @@
         "keywords": []
       },
       {
-        "name": "Desarrollo iOS",
-        "level": "",
-        "keywords": []
-      },
-      {
-        "name": ".NET",
-        "level": "",
-        "keywords": []
-      },
-      {
-        "name": "Computrabajo",
-        "level": "",
-        "keywords": []
-      },
-      {
-        "name": "VB.NET",
-        "level": "",
-        "keywords": []
-      },
-      {
-        "name": "VMware",
-        "level": "",
-        "keywords": []
-      },
-      {
         "name": "ASP.NET",
         "level": "",
         "keywords": []
       },
       {
-        "name": "ASP.NET AJAX",
+        "name": "C#",
         "level": "",
         "keywords": []
       },
       {
-        "name": "C#",
+        "name": "React",
+        "level": "",
+        "keywords": []
+      }
+      ,
+      {
+        "name": "GIT",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "MySQL",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "SQL Server",
         "level": "",
         "keywords": []
       }
