@@ -205,28 +205,6 @@
     "interests": [],
     "references": [],
     "projects": [
-      {
-        "name": "mars.codes",
-        "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
-        "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
-        ],
-        "url": "https://mars.codes",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      },
-      {
-        "name": "mars.codes",
-        "isActive": true,
-        "description": "Historia interactiva con retos de programación para viajar a Marte",
-        "highlights": [
-          "Elige tu propia aventura",
-          "En desarrollo"
-        ],
-        "url": "https://mars.codes",
-        "github": "https://github.com/midudev/pruebas-tecnicas"
-      }
     ],
     "meta": {
       "version": "v1.0.0",
