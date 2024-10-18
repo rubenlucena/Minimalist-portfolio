@@ -7,8 +7,9 @@ import X from '@/icons/X.astro';
 import LinkedIn from '@/icons/LinkedIn.astro';
 import GitHub from '@/icons/GitHub.astro';
 import WorldMap from '@/icons/WorldMap.astro';
+import Mastodon from '@/icons/Mastodon.astro';
 
-const { name, label, image, location, profiles, phone, email } = basics;
+const { name, label, image, location, profiles, phone, email, mastodon } = basics;
 const { city ,region } = location
 
 const SOCIAL_ICONS: Record<string, any> = {
@@ -44,6 +45,15 @@ const SOCIAL_ICONS: Record<string, any> = {
                         title={`Llamar por teléfono a ${name} al número ${phone}`}
                         target="_blank"
                         rel="noopener noreferrer"><Phone /></a>
+                    )
+                }
+                {
+                    mastodon && (
+                        <a 
+                        href={mastodon}
+                        title={`Ir a ${name} en Mastodon`}
+                        target="_blank"
+                        rel="me"><Mastodon /></a>
                     )
                 }
                 {
